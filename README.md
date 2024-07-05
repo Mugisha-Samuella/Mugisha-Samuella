@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samuella</h1>
-- 🔭 I’m currently working on **CyberIce**
-
-- 🌱 I’m currently learning **NodeJS - ExpressJs**
-
-- 💬 Ask me about **Reactjs, Nextjs, Typescript, ...**
-
-- 📫 How to reach me **itsmugishasamuella@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
